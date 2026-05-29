@@ -1,0 +1,14 @@
+# directories
+.ai
+.idea
+.git
+.claude
+.windsurf
+.vscode
+
+# files
+scratch.*
+
+# macOS
+.DS_Store
+**/.DS_Store
