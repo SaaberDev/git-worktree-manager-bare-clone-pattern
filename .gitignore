@@ -12,3 +12,5 @@ scratch.*
 # macOS
 .DS_Store
 **/.DS_Store
+# gwt runtime
+logs/
